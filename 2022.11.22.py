@@ -8,7 +8,7 @@ print(lista)
 
 """
 lista.insert(4,50) #bővítés az ötödik helyre 50-est
-print(len(lista)) #len hogya listaba mennyi elem van
+print(len(lista)) #len hogy a listaba mennyi elem van
 print(lista.index(50)) #hanyadik helyen található az 50
 print(lista.count(50)) #hány db 50 szám van
 print(lista.remove(50)) #kitörli az 50-et
