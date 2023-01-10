@@ -6,7 +6,10 @@ for i in range(12):
     lista.append(random.randint(-20,20))
 print(lista)
 print(max(lista)-min(lista))
+"""
 
+
+"""
 szamok=[]
 for i in range(10):
     szamok.append(random.randint(1,100))
@@ -81,14 +84,19 @@ for i in range(len(km)):
 print(verseny[maxii])
 """
 
+
+"""
 import datetime
 DATUM=datetime.date.fromisoformat("2022-11-29")
 termek=[]
-for i in range(5):
-    termeknev=input()
-    lejar=datetime.date.fromisoformat(input())
+for i in range(2):
+    termeknev=input("Terméknév: ")
+    lejar=datetime.date.fromisoformat(input("Lejár: "))
     termek.append((termeknev,lejar))
 print(termek)
 for t, l in termek:
-    if l<DATUM:
-        print(t)
+    if l>DATUM or l==DATUM:
+        print(f"{termeknev} fogyasztható")
+    else:
+        print(f"{termeknev} lejárt")
+"""
