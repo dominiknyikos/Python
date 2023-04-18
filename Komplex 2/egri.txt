@@ -1,0 +1,13 @@
+Egri_Csillagok Arvak 78 
+Voros_Rokak Egri_Csillagok 85 
+Egri_Csillagok Bohocok 92 
+Computerbontok Egri_Csillagok 106 
+Egri_Csillagok Real_Margit 106 
+Polimer_Buksi Egri_Csillagok 113 
+Egri_Csillagok Nyeromu 120 
+Agressziv_Mohak Egri_Csillagok 134 
+Egri_Csillagok Agressziv_Mohak 134 
+Nyeromu Egri_Csillagok 141 
+Egri_Csillagok Polimer_Buksi 148 
+Egri_Csillagok Computerbontok 162 
+Real_Margit Egri_Csillagok 162 

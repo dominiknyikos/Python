@@ -1,0 +1,3 @@
+def azonos_e(szam):
+	if szam%11==0
+		return True
