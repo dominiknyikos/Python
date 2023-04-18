@@ -1,0 +1,6 @@
+﻿class Auto:
+    def __init__(self, sor):
+        self.rendszam = sor[0]
+        self.marka = sor[1]
+        self.szin = sor[2]
+        self.gyev = int(sor[3])
