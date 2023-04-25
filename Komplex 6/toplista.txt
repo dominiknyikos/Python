@@ -1,0 +1,200 @@
+1;4;All Night;ICONA POP;0
+1;7;Are We All We Are;P!NK;0
+1;18;Ask Yourself;NABIHA;0
+1;31;Blurred Lines;ROBIN THICKE feat. T.I. & PHARRELL;0
+1;5;Bonfire Heart;JAMES BLUNT;0
+1;9;Burn;ELLIE GOULDING;0
+1;39;Catch My Breath;KELLY CLARKSON;0
+1;10;Cheating;JOHN NEWMAN;0
+1;40;Counting Stars;ONEREPUBLIC;0
+1;13;Disco Love;THE SATURDAYS;0
+1;16;Ég veled / Next Please;DÉR HENI;1
+1;27;Fire;KIRÁLY VIKTOR;1
+1;15;Go Gentle;ROBBIE WILLIAMS;0
+1;6;Happy;PHARRELL WILLIAMS;0
+1;1;Hey Brother;AVICII;0
+1;14;I Hope;REBECCA FERGUSON;0
+1;19;It`s My Party;JESSIE J;0
+1;36;Köszönet;MAGNA CUM LAUDE;1
+1;38;Lábnyom;ANTI FITNESS CLUB;1
+1;28;London;BERMUDA;1
+1;32;Love Me Again;JOHN NEWMAN;0
+1;26;Mindörökké;HOOLIGANS;1
+1;35;My Baby;KÁLLAY SAUNDERS;1
+1;2;My Love;NEWIK;1
+1;37;Need U (100%);DUKE DUMONT feat. A*M*E;0
+1;17;Nem kell más;NYÁRI ALIZ ÉS NYÁRI EDIT;1
+1;3;Of The Night;BASTILLE;0
+1;20;Ordinary Love;U2;0
+1;8;Ragyog a szívem;MOHAMED FATIMA;1
+1;25;Roar;KATY PERRY;0
+1;21;Senki se menekül;QUIMBY;1
+1;33;Sors;TÓTH GABI;1
+1;34;Summertime Sadness;LANA DEL REY;0
+1;24;Süss fel nap;CARAMEL;1
+1;11;The Last One;NEW LEVEL EMPIRE;1
+1;12;The Storm;COMPACT DISCO;1
+1;30;Törj ki a csendből! / Breaking The Silence;OLÁH GERGŐ;1
+1;29;Treasure;BRUNO MARS;0
+1;22;Úgy szállj;CSERPES LAURA;1
+1;23;You`re Nobody `Til Somebody Loves You;JAMES ARTHUR;0
+2;31;A széltől is óvsz;PÁL DÉNES;1
+2;5;All Night;ICONA POP;0
+2;16;Are We All We Are;P!NK;0
+2;18;Ask Yourself;NABIHA;0
+2;9;Bonfire Heart;JAMES BLUNT;0
+2;22;Burn;ELLIE GOULDING;0
+2;14;Cheating;JOHN NEWMAN;0
+2;21;Counting Stars;ONEREPUBLIC;0
+2;33;Csak állj mellém!;RÁCZ GERGŐ;1
+2;23;Disco Love;THE SATURDAYS;0
+2;13;Ég veled / Next Please;DÉR HENI;1
+2;27;Fire;KIRÁLY VIKTOR;1
+2;11;Go Gentle;ROBBIE WILLIAMS;0
+2;2;Happy;PHARRELL WILLIAMS;0
+2;1;Hey Brother;AVICII;0
+2;7;I Hope;REBECCA FERGUSON;0
+2;15;It`s My Party;JESSIE J;0
+2;35;Lábnyom;ANTI FITNESS CLUB;1
+2;26;London;BERMUDA;1
+2;32;Love Me Again;JOHN NEWMAN;0
+2;39;My Baby;KÁLLAY SAUNDERS;1
+2;3;My Love;NEWIK;1
+2;29;Need U (100%);DUKE DUMONT feat. A*M*E;0
+2;24;Nem kell más;NYÁRI ALIZ ÉS NYÁRI EDIT;1
+2;6;Of The Night;BASTILLE;0
+2;17;Ordinary Love;U2;0
+2;8;Ragyog a szívem;MOHAMED FATIMA;1
+2;25;Roar;KATY PERRY;0
+2;12;Senki se menekül;QUIMBY;1
+2;40;Sors;TÓTH GABI;1
+2;38;Summertime Sadness;LANA DEL REY;0
+2;20;Süss fel nap;CARAMEL;1
+2;4;The Last One;NEW LEVEL EMPIRE;1
+2;30;The Monster;EMINEM feat. RIHANNA;0
+2;10;The Storm;COMPACT DISCO;1
+2;34;This Is What It Feels Like;ARMIN VAN BUUREN feat. TREVOR GUTHRIE;0
+2;28;Törj ki a csendből! / Breaking The Silence;OLÁH GERGŐ;1
+2;19;Úgy szállj;CSERPES LAURA;1
+2;37;Vadonatúj érzés / Daydream;RADICS GIGI;1
+2;36;You`re Nobody `Til Somebody Loves You;JAMES ARTHUR;0
+3;4;All Night;ICONA POP;0
+3;25;Are We All We Are;P!NK;0
+3;13;Bonfire Heart;JAMES BLUNT;0
+3;26;Brave New World / Szép új világ;GATTI DI AMALFI feat. PÁL DÉNES;1
+3;17;Burn;ELLIE GOULDING;0
+3;29;Can`t Remember To Forget You;SHAKIRA feat. RIHANNA;0
+3;12;Cheating;JOHN NEWMAN;0
+3;39;Come & Get It;SELENA GOMEZ;0
+3;23;Counting Stars;ONEREPUBLIC;0
+3;34;Csak állj mellém!;RÁCZ GERGŐ;1
+3;18;Disco Love;THE SATURDAYS;0
+3;28;Don`t You Mind;BRICKLAKE & SEAN DARIN feat. HERR SPIEGEL;0
+3;6;Ég veled / Next Please;DÉR HENI;1
+3;27;Go Gentle;ROBBIE WILLIAMS;0
+3;1;Happy;PHARRELL WILLIAMS;0
+3;2;Hey Brother;AVICII;0
+3;14;I Hope;REBECCA FERGUSON;0
+3;16;It`s My Party;JESSIE J;0
+3;40;Köszönet;MAGNA CUM LAUDE;1
+3;33;La La La;NAUGHTY BOY feat. SAM SMITH;0
+3;20;London;BERMUDA;1
+3;38;Love Me Again;JOHN NEWMAN;0
+3;3;My Love;NEWIK;1
+3;35;Ná-ná-ná;RÚZSA MAGDOLNA;1
+3;32;Need U (100%);DUKE DUMONT feat. A*M*E;0
+3;15;Nem kell más;NYÁRI ALIZ ÉS NYÁRI EDIT;1
+3;5;Of The Night;BASTILLE;0
+3;22;Ordinary Love;U2;0
+3;9;Ragyog a szívem;MOHAMED FATIMA;1
+3;36;Roar;KATY PERRY;0
+3;24;Running;KÁLLAY SAUNDERS;1
+3;11;Senki se menekül;QUIMBY;1
+3;19;Süss fel nap;CARAMEL;1
+3;8;The Last One;NEW LEVEL EMPIRE;1
+3;21;The Storm;COMPACT DISCO;1
+3;7;Timber;PITBULL feat. KE$HA;0
+3;30;Törj ki a csendből! / Breaking The Silence;OLÁH GERGŐ;1
+3;10;Úgy szállj;CSERPES LAURA;1
+3;31;Vadonatúj érzés / Daydream;RADICS GIGI;1
+3;37;You`re Nobody `Til Somebody Loves You;JAMES ARTHUR;0
+4;9;All Night;ICONA POP;0
+4;12;Bonfire Heart;JAMES BLUNT;0
+4;18;Brave New World / Szép új világ;GATTI DI AMALFI feat. PÁL DÉNES;1
+4;10;Burn;ELLIE GOULDING;0
+4;5;Can`t Remember To Forget You;SHAKIRA feat. RIHANNA;0
+4;25;Cheating;JOHN NEWMAN;0
+4;29;Counting Stars;ONEREPUBLIC;0
+4;36;Csak állj mellém!;RÁCZ GERGŐ;1
+4;11;Disco Love;THE SATURDAYS;0
+4;31;Don`t You Mind;BRICKLAKE & SEAN DARIN feat. HERR SPIEGEL;0
+4;6;Ég veled / Next Please;DÉR HENI;1
+4;2;Happy;PHARRELL WILLIAMS;0
+4;3;Hey Brother;AVICII;0
+4;15;I Hope;REBECCA FERGUSON;0
+4;20;It`s My Party;JESSIE J;0
+4;39;Lábnyom;ANTI FITNESS CLUB;1
+4;28;London;BERMUDA;1
+4;27;Love Me Again;JOHN NEWMAN;0
+4;23;Mindörökké;HOOLIGANS;1
+4;4;My Love;NEWIK;1
+4;37;Need U (100%);DUKE DUMONT feat. A*M*E;0
+4;22;Nem kell más;NYÁRI ALIZ ÉS NYÁRI EDIT;1
+4;7;Of The Night;BASTILLE;0
+4;21;Ordinary Love;U2;0
+4;8;Ragyog a szívem;MOHAMED FATIMA;1
+4;14;Running;KÁLLAY SAUNDERS;1
+4;35;Safe And Sound;CAPITAL CITIES;0
+4;17;Senki se menekül;QUIMBY;1
+4;26;Süss fel nap;CARAMEL;1
+4;13;The Last One;NEW LEVEL EMPIRE;1
+4;40;This Is My Life;MUZIKFABRIK feat. HEGYI ÁKOS;1
+4;32;This Is What It Feels Like;ARMIN VAN BUUREN feat. TREVOR GUTHRIE;0
+4;1;Timber;PITBULL feat. KE$HA;0
+4;24;Törj ki a csendből! / Breaking The Silence;OLÁH GERGŐ;1
+4;33;Treasure;BRUNO MARS;0
+4;16;Úgy szállj;CSERPES LAURA;1
+4;19;Unconditionally;KATY PERRY;0
+4;34;Under Control;CALVIN HARRIS & ALESSO feat. HURTS;0
+4;38;Vadonatúj érzés / Daydream;RADICS GIGI;1
+4;30;You`re Nobody `Til Somebody Loves You;JAMES ARTHUR;0
+5;12;All Night;ICONA POP;0
+5;18;Bonfire Heart;JAMES BLUNT;0
+5;10;Brave New World / Szép új világ;GATTI DI AMALFI feat. PÁL DÉNES;1
+5;24;Burn;ELLIE GOULDING;0
+5;13;Can`t Remember To Forget You;SHAKIRA feat. RIHANNA;0
+5;11;Changes;FAUL & WAD AD vs. PNAU;0
+5;21;Cheating;JOHN NEWMAN;0
+5;29;Counting Stars;ONEREPUBLIC;0
+5;28;Csak állj mellém!;RÁCZ GERGŐ;1
+5;19;Disco Love;THE SATURDAYS;0
+5;38;Don`t You Mind;BRICKLAKE & SEAN DARIN feat. HERR SPIEGEL;0
+5;7;Ég veled / Next Please;DÉR HENI;1
+5;1;Happy;PHARRELL WILLIAMS;0
+5;3;Hey Brother;AVICII;0
+5;20;I Hope;REBECCA FERGUSON;0
+5;15;It`s My Party;JESSIE J;0
+5;35;La La La;NAUGHTY BOY feat. SAM SMITH;0
+5;23;London;BERMUDA;1
+5;37;Mindörökké;HOOLIGANS;1
+5;2;My Love;NEWIK;1
+5;32;Need U (100%);DUKE DUMONT feat. A*M*E;0
+5;31;Nem kell más;NYÁRI ALIZ ÉS NYÁRI EDIT;1
+5;8;Of The Night;BASTILLE;0
+5;22;Ordinary Love;U2;0
+5;5;Ragyog a szívem;MOHAMED FATIMA;1
+5;9;Running;KÁLLAY SAUNDERS;1
+5;14;Running Out Of Time;KIRÁLY VIKTOR feat. DMC;1
+5;6;Senki se menekül;QUIMBY;1
+5;36;Sors;TÓTH GABI;1
+5;34;Summertime Sadness;LANA DEL REY;0
+5;17;The Last One;NEW LEVEL EMPIRE;1
+5;30;This Is What It Feels Like;ARMIN VAN BUUREN feat. TREVOR GUTHRIE;0
+5;4;Timber;PITBULL feat. KE$HA;0
+5;16;Törj ki a csendből! / Breaking The Silence;OLÁH GERGŐ;1
+5;27;Úgy szállj;CSERPES LAURA;1
+5;25;Unconditionally;KATY PERRY;0
+5;39;Under Control;CALVIN HARRIS & ALESSO feat. HURTS;0
+5;40;Vadonatúj érzés / Daydream;RADICS GIGI;1
+5;26;We All;BOGI;1
+5;33;You`re Nobody `Til Somebody Loves You;JAMES ARTHUR;0

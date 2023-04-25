@@ -1,0 +1,79 @@
+body {
+	background-size: cover;
+	background-position: center center;
+	font-size: 1.2em;
+	font-family: Century;
+	line-height: 1.3em;
+	background-image: url(kepek/hatter.jpg);
+	background-attachment: fixed;
+}
+
+#container {
+	border: 10px ridge rgba(255, 255, 255, 0.5);
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 70%);
+	width: 70%;
+	margin: auto;
+}
+
+header {
+	height: 10vh;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url(kepek/kalandpark_logo.png);
+}
+
+nav {
+	background-color: rgb(38, 119, 49);
+	border: 2px solid rgba(255, 255, 255, 0.5);
+	border-radius: 10px;
+	font-size: 1.2em;
+}
+
+nav ul li {
+	width: 8em;
+	text-align: center;
+	display: inline-block;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	transition: 1s;
+}
+
+nav ul li a:hover {
+	background-color: rgba(255, 100, 100, 1);
+	color: white;
+}
+
+footer {
+	background-color: rgb(38, 119, 49);
+	color: white;
+	text-align: center;
+	clear: both;
+}
+
+section img {
+	border: 5px ridge rgba(255, 255, 255, 0.5);
+}
+
+
+.kozep {
+	text-align: center;
+}
+
+
+td {
+	padding: 0 1em;
+	text-align: center;
+}
+
+td img {
+	width: 100%;
+}
+
+.kepek {
+	width: 25%;
+}
