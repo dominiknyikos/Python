@@ -1,0 +1,185 @@
+Skvar Tamás,i,magyar,angol,4000
+Skvar Tamás,i,magyar,latin,10000
+Skvar Tamás,i,angol,magyar,4000
+Skvar Tamás,i,latin,magyar,10000
+Tatár István,i,magyar,olasz,4000
+Tatár István,i,olasz,magyar,4000
+Tatár István,i,angol,német,5000
+Tatár István,i,német,angol,5000
+Siket Karen,n,magyar,német,4000
+Siket Karen,n,magyar,lengyel,4000
+Siket Karen,n,német,magyar,4000
+Siket Karen,n,lengyel,magyar,4000
+Horváth Mercédesz,i,magyar,angol,4000
+Horváth Mercédesz,i,magyar,ukrán,4000
+Horváth Mercédesz,i,magyar,katalán,10000
+Horváth Mercédesz,i,angol,magyar,4000
+Horváth Mercédesz,i,ukrán,magyar,4000
+Horváth Mercédesz,i,katalán,magyar,10000
+Dombovári Petra,i,magyar,angol,4000
+Dombovári Petra,i,magyar,kínai,10000
+Dombovári Petra,i,magyar,török,9000
+Dombovári Petra,i,angol,magyar,4000
+Dombovári Petra,i,kínai,magyar,10000
+Dombovári Petra,i,török,magyar,9000
+Rém Elek,i,magyar,spanyol,4000
+Rém Elek,i,magyar,portugál,7000
+Rém Elek,i,spanyol,magyar,4000
+Rém Elek,i,portugál,magyar,7000
+Kamarás Zsófia Viktória,i,magyar,olasz,4000
+Kamarás Zsófia Viktória,i,olasz,magyar,4000
+Sebő Tas,i,magyar,spanyol,4000
+Sebő Tas,i,magyar,szlovén,4000
+Sebő Tas,i,spanyol,magyar,4000
+Sebő Tas,i,szlovén,magyar,4000
+Sebő Tas,i,angol,spanyol,7500
+Sebő Tas,i,spanyol,angol,7500
+Szendrődi Csaba,i,magyar,francia,4000
+Szendrődi Csaba,i,francia,magyar,4000
+Szendrődi Csaba,i,francia,magyar,4000
+Berger Péter,i,magyar,észt,8000
+Berger Péter,i,észt,magyar,8000
+Csonka Anna,i,magyar,albán,8000
+Csonka Anna,i,magyar,litván,4000
+Fődi Anna,i,magyar,orosz,4000
+Csonka Anna,i,albán,magyar,8000
+Csonka Anna,i,litván,magyar,4000
+Csonka Anna,i,orosz,magyar,4000
+Szelei Anikó Dorina,i,magyar,francia,4000
+Szelei Anikó Dorina,i,magyar,norvég,4000
+Szelei Anikó Dorina,i,francia,magyar,4000
+Szelei Anikó Dorina,i,norvég,magyar,4000
+Kovács Ágnes,i,magyar,arab,8000
+Kovács Ágnes,i,arab,magyar,8000
+Szőke Mátyás,i,magyar,német,4000
+Szőke Mátyás,i,német,magyar,4000
+Kiss Zsófia,i,magyar,angol,4000
+Kiss Zsófia,i,angol,magyar,4000
+Bakos Kata Judit,i,magyar,finn,8000
+Bakos Kata Judit,i,finn,magyar,8000
+Bodnár Anna Katalin,i,magyar,angol,4000
+Bodnár Anna Katalin,i,angol,magyar,4000
+Keszthelyi Zsolt,i,magyar,héber,10000
+Keszthelyi Zsolt,i,héber,magyar,10000
+Kiss Lajos,n,magyar,angol,4000
+Kiss Lajos,n,angol,magyar,4000
+Szabó Orsolya Virág,n,magyar,német,4000
+Szabó Orsolya Virág,n,német,magyar,4000
+Vég Kálmán,i,magyar,holland,10000
+Vég Kálmán,i,holland,magyar,10000
+Hirzer Zsolt,i,magyar,olasz,4000
+Hirzer Zsolt,i,olasz,magyar,4000
+Kincses Zoltán,i,magyar,olasz,4000
+Kincses Zoltán,i,magyar,lett,4000
+Kincses Zoltán,i,olasz,magyar,4000
+Kincses Zoltán,i,lett,magyar,4000
+Zentay Réka,i,magyar,holland,10000
+Zentay Réka,i,holland,magyar,10000
+Kovai Róbert,i,magyar,bolgár,8000
+Kovai Róbert,i,bolgár,magyar,8000
+Koch Róbert,i,magyar,olasz,4000
+Koch Róbert,i,olasz,magyar,4000
+Szilágyi István,n,magyar,német,4000
+Szilágyi István,n,magyar,japán,10000
+Szilágyi István,n,német,magyar,4000
+Szilágyi István,n,japán,magyar,10000
+Horváth Pál,i,magyar,horváth,4000
+Horváth Pál,i,horváth,magyar,4000
+Duma Árpád,i,magyar,német,4000
+Duma Árpád,i,német,magyar,4000
+Nemes Gerda,i,magyar,bolgár,8000
+Nemes Gerda,i,magyar,román,4000
+Nemes Gerda,i,bolgár,magyar,8000
+Nemes Gerda,i,román,magyar,4000
+Zsolnai Péter,n,magyar,német,4000
+Zsolnai Péter,n,német,magyar,4000
+Illés Nóra,i,magyar,cseh,8000
+Illés Nóra,i,cseh,magyar,8000
+Fődi Anna,i,magyar,angol,4000
+Fődi Anna,i,angol,magyar,4000
+Szűcs Lóránt,i,magyar,dán,8000
+Szűcs Lóránt,i,dán,magyar,8000
+Borsos Anett,i,magyar,angol,4000
+Borsos Anett,i,angol,magyar,4000
+Sarlós Róbert,i,magyar,svéd,7000
+Sarlós Róbert,i,svéd,magyar,7000
+Hoffmann Bettina,i,magyar,szerb,4000
+Hoffmann Bettina,i,szerb,magyar,4000
+Farkas Ildikó,i,magyar,szlovák,4000
+Farkas Ildikó,i,szlovák,magyar,4000
+Gál Brigitta,n,magyar,azeri,10000
+Gál Brigitta,n,azeri,magyar,10000
+Szabó Izabella Diána,i,magyar,belorusz,4000
+Szabó Izabella Diána,i,belorusz,magyar,4000
+Rácz Lili,n,magyar,bengáli,14000
+Rácz Lili,n,bengáli,magyar,14000
+Botos Noémi,i,magyar,dari,12000
+Botos Noémi,i,dari,magyar,12000
+Kasznár Judit,i,magyar,eszperantó,8000
+Kasznár Judit,i,eszperantó,magyar,8000
+Lengyel Zsófia,i,magyar,flamand,10000
+Lengyel Zsófia,i,flamand,magyar,10000
+Kerekes Lili,i,magyar,hindi,10000
+Kerekes Lili,i,hindi,magyar,10000
+Kis Barbara Emma,i,magyar,indonéz,10000
+Kis Barbara Emma,i,indonéz,magyar,10000
+Vida Csongor,i,magyar,kazah,10000
+Vida Csongor,i,kazah,magyar,10000
+Nagy Eszter,i,magyar,koreai,10000
+Nagy Eszter,i,koreai,magyar,10000
+Benkő Kata Enikő,i,magyar,kurd,10000
+Benkő Kata Enikő,i,kurd,magyar,10000
+Urbán Roland,i,magyar,macedon,4000
+Urbán Roland,i,macedon,magyar,4000
+Samu Blanka,n,magyar,mongol,10000
+Samu Blanka,n,mongol,magyar,10000
+Pálinkás Anna,i,magyar,örmény,10000
+Pálinkás Anna,i,örmény,magyar,10000
+Falch Emil,n,magyar,perzsa,10000
+Falch Emil,n,perzsa,magyar,10000
+Teleki Kálmán,i,magyar,tibeti,10000
+Teleki Kálmán,i,tibeti,magyar,10000
+Sima Dezső,i,magyar,vietnámi,10000
+Sima Dezső,i,vietnámi,magyar,10000
+Rudas Ádám,i,angol,olasz,7500
+Rudas Ádám,i,olasz,angol,7500
+Forrai Laura,n,angol,francia,6000
+Forrai Laura,n,francia,angol,6000
+Irinyi Katalin Ida,i,angol,lengyel,7500
+Irinyi Katalin Ida,i,lengyel,angol,7500
+Hódi Vivien,i,angol,lengyel,7500
+Hódi Vivien,i,lengyel,angol,7500
+Máté Oszkár,i,angol,orosz,6000
+Máté Oszkár,i,orosz,angol,6000
+Püski Kata,i,angol,portugál,7500
+Püski Kata,i,portugál,angol,7500
+Mészáros Anita Réka,i,angol,román,7500
+Mészáros Anita Réka,i,román,angol,7500
+Kis Nóra Judit,i,angol,szlovák,7500
+Kis Nóra Judit,i,szlovák,angol,7500
+Nyári Judit,i,angol,szlovén,7500
+Nyári Judit,i,szlovén,angol,7500
+Balog Orsolya,i,angol,török,8000
+Balog Orsolya,i,török,angol,8000
+Zombori Adrienn,i,német,spanyol,7500
+Tóti Albert,i,német,olasz,7500
+Szabó Lilla,i,német,francia,7500
+Petres Zoltán,i,német,lengyel,7500
+Zombori Adrienn,i,spanyol,német,7500
+Tóti Albert,i,olasz,német,7500
+Szabó Lilla,i,francia,német,7500
+Petres Zoltán,i,lengyel,német,7500
+Barta Petra,i,német,lengyel,7500
+Barta Petra,i,cseh,német,7500
+Rovó Petra,i,német,orosz,6000
+Rovó Petra,i,orosz,német,6000
+Bor János,i,német,portugál,8000
+Bor János,i,portugál,német,8000
+Fogó Róbert,i,német,román,6000
+Fogó Róbert,i,román,német,6000
+Juhász Imre,i,német,szlovák,7500
+Juhász Imre,i,szlovák,német,7500
+Nagy Tímea,n,német,szlovén,7500
+Nagy Tímea,n,szlovén,német,7500
+Tanács Lilla,i,német,török,7500
+Tanács Lilla,i,török,német,7500

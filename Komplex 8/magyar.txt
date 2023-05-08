@@ -1,0 +1,69 @@
+Skvar Tamás - angol - 4000 
+Skvar Tamás - latin - 10000 
+Tatár István - olasz - 4000 
+Siket Karen - német - 4000 
+Siket Karen - lengyel - 4000 
+Horváth Mercédesz - angol - 4000 
+Horváth Mercédesz - ukrán - 4000 
+Horváth Mercédesz - katalán - 10000 
+Dombovári Petra - angol - 4000 
+Dombovári Petra - kínai - 10000 
+Dombovári Petra - török - 9000 
+Rém Elek - spanyol - 4000 
+Rém Elek - portugál - 7000 
+Kamarás Zsófia Viktória - olasz - 4000 
+Sebő Tas - spanyol - 4000 
+Sebő Tas - szlovén - 4000 
+Szendrődi Csaba - francia - 4000 
+Berger Péter - észt - 8000 
+Csonka Anna - albán - 8000 
+Csonka Anna - litván - 4000 
+Fődi Anna - orosz - 4000 
+Szelei Anikó Dorina - francia - 4000 
+Szelei Anikó Dorina - norvég - 4000 
+Kovács Ágnes - arab - 8000 
+Szőke Mátyás - német - 4000 
+Kiss Zsófia - angol - 4000 
+Bakos Kata Judit - finn - 8000 
+Bodnár Anna Katalin - angol - 4000 
+Keszthelyi Zsolt - héber - 10000 
+Kiss Lajos - angol - 4000 
+Szabó Orsolya Virág - német - 4000 
+Vég Kálmán - holland - 10000 
+Hirzer Zsolt - olasz - 4000 
+Kincses Zoltán - olasz - 4000 
+Kincses Zoltán - lett - 4000 
+Zentay Réka - holland - 10000 
+Kovai Róbert - bolgár - 8000 
+Koch Róbert - olasz - 4000 
+Szilágyi István - német - 4000 
+Szilágyi István - japán - 10000 
+Horváth Pál - horváth - 4000 
+Duma Árpád - német - 4000 
+Nemes Gerda - bolgár - 8000 
+Nemes Gerda - román - 4000 
+Zsolnai Péter - német - 4000 
+Illés Nóra - cseh - 8000 
+Fődi Anna - angol - 4000 
+Szűcs Lóránt - dán - 8000 
+Borsos Anett - angol - 4000 
+Sarlós Róbert - svéd - 7000 
+Hoffmann Bettina - szerb - 4000 
+Farkas Ildikó - szlovák - 4000 
+Gál Brigitta - azeri - 10000 
+Szabó Izabella Diána - belorusz - 4000 
+Rácz Lili - bengáli - 14000 
+Botos Noémi - dari - 12000 
+Kasznár Judit - eszperantó - 8000 
+Lengyel Zsófia - flamand - 10000 
+Kerekes Lili - hindi - 10000 
+Kis Barbara Emma - indonéz - 10000 
+Vida Csongor - kazah - 10000 
+Nagy Eszter - koreai - 10000 
+Benkő Kata Enikő - kurd - 10000 
+Urbán Roland - macedon - 4000 
+Samu Blanka - mongol - 10000 
+Pálinkás Anna - örmény - 10000 
+Falch Emil - perzsa - 10000 
+Teleki Kálmán - tibeti - 10000 
+Sima Dezső - vietnámi - 10000 
